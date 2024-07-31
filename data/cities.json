@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Mumbai",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2015-03-07T13:17:02.000Z",
+      "notes": "Nice City|| Good For Parties 🎉",
+      "position": {
+        "lat": "19.0514152998804",
+        "lng": "72.89428710937501"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Taranagar",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-07-31T14:07:36.342Z",
+      "notes": "",
+      "position": {
+        "lat": "28.776429420888746",
+        "lng": "75.05859375000001"
+      },
+      "id": 98443199
+    }
+  ]
+}
